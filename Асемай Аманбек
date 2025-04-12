@@ -1,0 +1,9 @@
+// index.tsx
+export default function Home() {
+  return (
+    <div style={{ textAlign: "center", marginTop: "50px" }}>
+      <h1>AI-Балапан</h1>
+      <p>Тәрбиешілерге арналған әдістемелік құрал</p>
+    </div>
+  );
+}
